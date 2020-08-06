@@ -1,3 +1,3 @@
 # Tarefa do curso
-# curso git ministrado por Marcelo
+# curso git ministrado por Marcelo Lotufo
 
